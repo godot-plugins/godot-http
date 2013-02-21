@@ -1,0 +1,20 @@
+{
+  "name": "godot-http",
+  "description": "Godot Plugin: Http(s) producer",
+  "version": "0.1.0",
+  "author": "Olivier Bazoud <olivier.bazoud@gmail.com>",
+  "homepage": "https://github.com/godot-plugins/godot-http.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godot-plugins/godot-http.git"
+  },
+  "dependencies": {
+    "godot": "0.2.7",
+    "utile": "0.1.7"
+  },
+  "main": "./lib/godot-http/index.js",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
+

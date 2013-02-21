@@ -1,0 +1,9 @@
+{
+  "name": "godot-http-sample",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "godot": "0.2.7",
+    "godot-http": "0.1.0"
+  }
+}
